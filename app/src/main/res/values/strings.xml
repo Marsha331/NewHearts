@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewHearts</string>
+    <string name="name">New Hearts Recovery Network</string>
+    <string name="mission_statement">New Hearts is a non-profit recovery network organization that devotes its time advocating for someone\’\s recovery, be it financial, medical, and/or emergency relief.</string>
+    <string name="button">Visit our website</string>
+    <string name="call_button">Call us</string>
+</resources>
